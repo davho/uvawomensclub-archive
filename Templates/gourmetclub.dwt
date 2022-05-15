@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>UVa Women's Club Gourmet Group</title>
+<!-- TemplateEndEditable -->
+<link href="../uvawcstyle1.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+<div class="container">
+  <div class="header"><!-- end .header -->UVa Women's Club Gourmet Group</div>
+  <div class="sidebar1">
+    <ul class="nav">
+    </ul>
+    <!-- TemplateBeginEditable name="Sidebar1" -->
+    <h3>&nbsp;</h3>
+<p>&nbsp;</p>
+    <!-- TemplateEndEditable --><!-- end .sidebar1 --></div>
+  <div class="content"><!-- TemplateBeginEditable name="Content" -->
+    <h1>&nbsp;</h1>
+    <p>&nbsp;</p>
+    <h5>Last updated: 
+      <!-- #BeginDate format:Am1 -->August 21, 2016<!-- #EndDate -->
+    </h5>
+  <!-- TemplateEndEditable --><!-- end .content --></div>
+  <div class="footer"><!-- TemplateBeginEditable name="Footer" -->
+    <p><a href="../index.html" target="_blank">Click</a> to return to UVa Women's Club homepage</p>
+  <!-- TemplateEndEditable --><!-- end .footer --></div>
+  <!-- end .container --></div>
+</body>
+</html>
